@@ -1,0 +1,34 @@
+body {
+  padding-top: 56px;
+}
+
+.card-title {
+  color: rgb(33, 37, 41);
+  text-decoration: none;
+  text-align: center;
+}
+
+.card-title:hover {
+  color: rgb(33, 37, 41);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.card-img-top {
+  height: 120px;
+  width: auto;
+  display: block;
+  margin: auto;
+}
+
+.py-5 {
+  padding-bottom: 2rem!important;
+}
+
+.footer {
+  background-color: #343a40!important;
+  color: #fff;
+}
