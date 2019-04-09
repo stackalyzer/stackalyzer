@@ -1,6 +1,6 @@
-# Stackalizer
+# stackalyzer
 
-[Stackalizer](https://www.stackalizer.com/) is a utility that uncovers the technologies used on websites. It detects JavaScript frameworks, analytics tools and many more. 
+[stackalyzer](https://www.stackalyzer.com/) is a utility that uncovers the technologies used on websites. It detects JavaScript frameworks, analytics tools and many more. 
 
 ## Todo
 
