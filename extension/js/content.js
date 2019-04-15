@@ -31,7 +31,7 @@ function Stackalyzer() {
             _this.scriptJson = document.createElement("script")
             _this.scriptJson.id = "rules-json"
             
-            _this.scriptJson.src = "http://localhost:8081/stackalyzer/rules.js"
+            _this.scriptJson.src = "https://www.stackalyzer.com/rules.js"
             _this.scriptInj.src = chrome.extension.getURL('js/inject.js')
 
             chrome.runtime.sendMessage({type: "cookie", url: window.location.hostname}, () => {});
