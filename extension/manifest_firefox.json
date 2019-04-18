@@ -15,7 +15,6 @@
     "128": "images/icon.128.png"
   },
   "permissions": [
-    "background",
     "tabs",
     "activeTab",
     "cookies",
